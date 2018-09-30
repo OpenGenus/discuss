@@ -4,6 +4,11 @@
 
 Sign-up at [our Discourse forum](https://discourse.opengenus.org/) and add yourself to the list and discover new friends in an instant
 
+:loudspeaker: Edit this file, add your detail to the end of the list and open a pull request to add yourself to the list so that other wonderful people can discover you. 
+
+:pushpin: Sample entry: 
+`* [Your Name](Your GitHub profile URL) [[message me](Your Discourse profile URL)]: <Description>`
+
 * [Aditya Chatterjee](https://github.com/AdiChat) [[message me](https://discourse.opengenus.org/u/aditya/summary)]: Team Leader at OpenGenus
 * [Kyatham Srikanth](https://github.com/kyathamsrikanth) [[message me](https://discourse.opengenus.org/u/kyatham_srikanth/summary)] : Algorithm and Data-Structure intern at OpenGenus, Student at IIT, BHU
 * [Suraj Singh](https://github.com/Akatsuki06) [[message me](https://discourse.opengenus.org/u/suraznegi)] : Software Developer, Intern at OpenGenus 
