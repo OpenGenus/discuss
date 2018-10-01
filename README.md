@@ -14,4 +14,4 @@ Sign-up at [our Discourse forum](https://discourse.opengenus.org/) and add yours
 * [Suraj Singh](https://github.com/Akatsuki06) [[message me](https://discourse.opengenus.org/u/suraznegi)] : Software Developer, Intern at OpenGenus 
 * [Rounak Vyas](https://github.com/itsron717) [[message me](https://discourse.opengenus.org/u/itsron143)] : Student at VIT, Vellore and Software Developer, Intern at OpenGenus
 * [Pankaj Sharma](https://github.com/pankaj1181998) [[message me](https://discourse.opengenus.org/u/sharmapankaj090)] : Algorithm and Data-Structure intern at OpenGenus
-
+* [Siddharth](https://github.com/sd1497) [[message me](https://discourse.opengenus.org/u/sd1497)] : Student at DTU.
