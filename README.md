@@ -17,3 +17,4 @@ Sign-up at [our Discourse forum](https://discourse.opengenus.org/) and add yours
 * [Thomas Windt](WOLFI3654) [[message me](https://discourse.opengenus.org/u/WOLFI3654/)]: Java,C#,JavaScript,Android,SpigotMC/BungeeCord Developer. Currently focusing on IT-Security
 * [Agampreet Singh](https://github.com/agampreetsingh) [[message me](https://discourse.opengenus.org/u/agampreetsingh)] : Software Developer at Nagarro
 * [Tanya Vedi]( https://github.com/tanya-vedi) [[message me](https://discourse.opengenus.org/u/tanya-vedi)] : Former Software Engineering intern at Microsoft IDC. 
+* [Slavko Bojanic](https://github.com/slavkobojanic) [[message me](https://discourse.opengenus.org/u/slavkobojanic/)]: Full Stack Web Developer hailing from Sydney Australia! :D
