@@ -19,3 +19,4 @@ Sign-up at [our Discourse forum](https://discourse.opengenus.org/) and add yours
 * [Tanya Vedi]( https://github.com/tanya-vedi) [[message me](https://discourse.opengenus.org/u/tanya-vedi)] : Former Software Engineering intern at Microsoft IDC. 
 * [Slavko Bojanic](https://github.com/slavkobojanic) [[message me](https://discourse.opengenus.org/u/slavkobojanic/)]: Full Stack Web Developer hailing from Sydney Australia! :D
 * [Khur Sani](https://github.com/khursani8) [[message me](https://discourse.opengenus.org/u/khursani8/)]: Full Stack Web Developer at Vase
+* [Harris Thompson](https://github.com/harrisjt) [[message me](https://discourse.opengenus.org/u/HarrisJT/]: Student at the University of Wisconsin, Software developer and designer
