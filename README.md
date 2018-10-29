@@ -21,4 +21,4 @@ Sign-up at [our Discourse forum](https://discourse.opengenus.org/) and add yours
 * [Khur Sani](https://github.com/khursani8) [[message me](https://discourse.opengenus.org/u/khursani8/)]: Full Stack Web Developer at Vase
 * [Nikhil Singh](https://github.com/nikhilmufc7) [[message me](https://discourse.opengenus.org/u/nikhilsingh/)]: Full Stack Blockchain and NodeJS Developer
 * [Harris Thompson](https://github.com/harrisjt) [[message me](https://discourse.opengenus.org/u/HarrisJT/]: Student at the University of Wisconsin, Software developer and designer
-* [Sumit Kumar Singh](https://github.com/sks147) [[message me](https://discourse.opengenus.org/u/sks147/]: Software Developer at Telstra
+* [Sumit Kumar Singh](https://github.com/sks147) [message me](https://discourse.opengenus.org/u/sks147/): Software Developer at Telstra
