@@ -20,4 +20,4 @@ Sign-up at [our Discourse forum](https://discourse.opengenus.org/) and add yours
 * [Slavko Bojanic](https://github.com/slavkobojanic) [[message me](https://discourse.opengenus.org/u/slavkobojanic/)]: Full Stack Web Developer hailing from Sydney Australia! :D
 * [Khur Sani](https://github.com/khursani8) [[message me](https://discourse.opengenus.org/u/khursani8/)]: Full Stack Web Developer at Vase
 * [Nikhil Singh](https://github.com/nikhilmufc7) [[message me](https://discourse.opengenus.org/u/nikhilsingh/)]: Full Stack Blockchain and NodeJS Developer
-* [Harris Thompson](https://github.com/harrisjt) [[message me](https://discourse.opengenus.org/u/HarrisJT/]: Student at the University of Wisconsin, Software developer and designer
+* [Harris Thompson](https://github.com/harrisjt) [[message me] (https://discourse.opengenus.org/u/HarrisJT/]: Student at the University of Wisconsin, Software developer and designer
